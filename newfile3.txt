@@ -1,6 +1,6 @@
 this became first line appnend to end of line again
 cursor location changed.
 mongai  sting three two three three
-state a new line for conflict.
+state a new line for conflicter.
 conflict resolution
 Opened aall 
