@@ -3,4 +3,5 @@ cursor location changed.
 mongai  sting three two three three
 state a new line for conflicter.
 conflict resolution
+new room1 added this line
 Opened aall 
